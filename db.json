@@ -1,0 +1,7 @@
+{
+    "cursos":[
+        {"id": 1, "curso": "Técnico em Metalúrgica", "turno": "Manhã"},
+        {"id": 2, "curso": "Técnico em Informática", "turno": "Tarde"},
+        {"id": 3, "curso": "Técnico em Enfermagem", "turno": "Noite"}
+    ]
+}
